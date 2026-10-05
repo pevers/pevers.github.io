@@ -1,0 +1,17 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "xMwtCrRJSdbwkp9O03oDqcvz088EdPMIIn1NhZGpA0M",
+      "y": "j26vaR_pjQnNfwUmEQ4t7czjdVz2Zru2j62QLn9PUss",
+      "kid": "2026-10-05_bf3",
+      "use": "sig",
+      "alg": "ES256",
+      "aauth": {
+        "device": "macbook-air-peterevers",
+        "created": "2026-10-05"
+      }
+    }
+  ]
+}

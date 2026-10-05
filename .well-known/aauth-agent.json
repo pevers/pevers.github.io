@@ -1,0 +1,6 @@
+{
+  "issuer": "https://pevers.github.io",
+  "jwks_uri": "https://pevers.github.io/.well-known/jwks.json",
+  "client_name": "Peter Evers",
+  "logo_uri": "https://avatars.githubusercontent.com/u/3428649?v=4"
+}
